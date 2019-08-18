@@ -21,6 +21,7 @@ namespace testgit2
         {
             Console.WriteLine("dfdf");
             Console.WriteLine("df");
+            Console.WriteLine("fd");
 
         }
     }
