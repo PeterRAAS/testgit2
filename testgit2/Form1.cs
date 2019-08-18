@@ -20,7 +20,7 @@ namespace testgit2
         private void Form1_Load(object sender, EventArgs e)
         {
             Console.WriteLine("dfdf");
-            Console.WriteLine("df");
+            Console.WriteLine("d");
 
 
         }
